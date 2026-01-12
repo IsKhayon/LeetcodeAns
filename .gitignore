@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+mise.toml
+poetry.lock
+pyproject.toml
+
+# VS Code
+.vscode/
+!/vscode/settings.json  # 建议保留项目级设置，方便同步配置
