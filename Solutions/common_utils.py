@@ -1,4 +1,3 @@
-# common_utils.py
 import collections
 
 # ==========================================
